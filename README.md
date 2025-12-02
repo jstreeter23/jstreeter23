@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm **Jordan**, a Salesforce Administrator based in Los Angeles, California.
+I'm **Jordan**, a Salesforce Administrator & Software Engineering student based in Los Angeles, California.
 
 I am currently attending online school for software engineering. I have a passion for building solutions, automating workflows, designing systems, and exploring new technologies.
 
