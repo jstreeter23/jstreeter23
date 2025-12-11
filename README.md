@@ -2,9 +2,9 @@
 
 I'm **Jordan**, a Salesforce Administrator & Software Engineering student based in Los Angeles, California.
 
-I am currently attending online school for software engineering. I have a passion for building solutions, automating workflows, designing systems, and exploring new technologies.
+I have a passion for building solutions, automating workflows, designing systems, and exploring new technologies.
 
-If there is a way to optimize a process, I will find it and build it.
+Laziness is my greatest superpoewer. If there is a way to optimize a process, I will do it. Making things fast and efficient.
 
 My favorite language is **Python**. I am proficient with the **Salesforce Lightning Web Component** framework (heavy on JavaScript) and I am currently learning **React** alongside my coursework.
 
@@ -15,4 +15,4 @@ My daily tools include **Cursor** (my main IDE), **Google Colab** for data analy
 * I used to be a substitute teacher 🍎
 * I am double-jointed in both index fingers
 * I firmly believe aliens are real 👽
-* **Hobbies:** Building automations, coding, and learning new tech stacks
+* **Hobbies:** Basketball - Go Lakers! Cooking & Gym.
